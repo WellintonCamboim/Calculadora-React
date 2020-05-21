@@ -5,8 +5,7 @@ import './index.css';
 
 ReactDOM.render(
   <div>
-    <h1> Calculadora com Lib React
-    </h1>
+    <h1>Calculadora com Lib React</h1>
     <Calculator />
   </div>
  , document.getElementById('root')
